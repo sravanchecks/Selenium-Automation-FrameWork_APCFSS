@@ -6,7 +6,7 @@
 
 This is a **comprehensive Selenium WebDriver automation framework** built to streamline web UI testing with industry best practices including the Page Object Model (POM), data-driven testing, and parallel execution capabilities.
 
-**Perfect for:** QA engineers, test automation specialists, and development teams looking for a scalable testing solution.
+**Perfect for:** QA engineers and test automation specialists looking for a scalable testing solution.
 
 ---
 
